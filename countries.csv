@@ -1,0 +1,27 @@
+iso3,국가,지역,계산방식,통화,원화환율,공제액,상속인당공제,세율구간,세율적용,제도요약,출처
+KOR,한국,동아시아,korea,KRW,1,500000000,0,0:0.10;100000000:0.20;500000000:0.30;1000000000:0.40;3000000000:0.50,marginal,"상속세 10~50% (유산세). 일괄공제 5억, 금융재산공제, 가업상속공제",https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238919
+JPN,일본,동아시아,split,JPY,8.37,30000000,6000000,0:0.10;10000000:0.15;30000000:0.20;50000000:0.30;100000000:0.40;200000000:0.45;300000000:0.50;600000000:0.55,marginal,"상속세 10~55%. 기초공제 3천만엔+상속인당 6백만엔, 법정상속분으로 나눠 계산",https://www.nta.go.jp/english/taxes/others/02/15001.htm
+TWN,대만,동아시아,estate,TWD,43,13330000,0,0:0.10;56210000:0.15;112420000:0.20,marginal,"유산세 10~20%. 면제액 1,333만 대만달러",https://taxsummaries.pwc.com/taiwan/individual/other-taxes
+CHN,중국,동아시아,none,CNY,200,0,0,,,상속세 없음,https://taxsummaries.pwc.com/quick-charts/inheritance-and-gift-tax-rates
+HKG,홍콩,동아시아,none,HKD,172,0,0,,,상속세 없음 (2006년 폐지),https://www.imidaily.com/analysis/countries-with-no-inheritance-tax/
+SGP,싱가포르,동남아시아,none,SGD,1030,0,0,,,상속세 없음 (2008년 폐지),https://mpestateplanning.uk/?p=10603
+MYS,말레이시아,동남아시아,none,MYR,320,0,0,,,상속세 없음,https://taxsummaries.pwc.com/quick-charts/inheritance-and-gift-tax-rates
+IDN,인도네시아,동남아시아,none,IDR,0.08,0,0,,,상속세 없음,https://salary-converter.com/blog/articles/inheritance-tax-expats-retire-abroad
+THA,태국,동남아시아,per_heir,THB,40,0,100000000,0:0.05,marginal,상속인별 1억 바트 초과분에 5% (직계),https://taxsummaries.pwc.com/thailand/individual/other-taxes
+PHL,필리핀,동남아시아,estate,PHP,23,5000000,0,0:0.06,marginal,유산세 6% 단일세율. 기본공제 500만 페소,https://www.pwc.com/ph/en/tax/tax-publications/tax-alerts/previous-years/tax-alert-34-2018.html
+IND,인도,남아시아,none,INR,15.5,0,0,,,상속세 없음,https://www.imidaily.com/analysis/countries-with-no-inheritance-tax/
+ARE,아랍에미리트,중동,none,AED,364,0,0,,,상속세 없음,https://globalwealthprotection.com/countries-no-inheritance-tax-2026/
+USA,미국,북미,estate,USD,1337,15000000,0,0:0.40,marginal,"연방 유산세 40%. 면제액 1,500만 달러 (주세 제외)",https://www.everycrsreport.com/reports/R48183.html
+CAN,캐나다,북미,canada,CAD,960,0,0,,,상속세 없음. 사망 시 자산 처분 간주 → 이익의 50%에 소득세 (최고 약 53.5%),https://lifemoney.ca/blog/what-changed-in-canadian-estate-planning-law-for-2026-the-5-rule-updates-that-move-the-tax-math
+GBR,영국,유럽,uk,GBP,1700,325000,0,0:0.40,marginal,유산세 40%. 기본공제 32.5만 파운드 + 주택공제 최대 17.5만 파운드,https://www.litrg.org.uk/tax-guides/bereavement/what-reliefs-and-exemptions-are-there-inheritance-tax
+FRA,프랑스,유럽,per_heir,EUR,1483,0,100000,0:0.05;8072:0.10;12109:0.15;15932:0.20;552324:0.30;902838:0.40;1805677:0.45,marginal,자녀 1인당 10만 유로 공제 후 5~45%,https://www.service-public.gouv.fr/particuliers/vosdroits/F35794
+DEU,독일,유럽,per_heir,EUR,1483,0,400000,0:0.07;75000:0.11;300000:0.15;600000:0.19;6000000:0.23;13000000:0.27;26000000:0.30,whole,자녀 1인당 40만 유로 공제 후 7~30% (구간 세율을 전체에 적용),https://verwaltung.bund.de/leistungsverzeichnis/EN/lagen/1190000/sublagen/1190200/rechte-und-pflichten/102837944
+ITA,이탈리아,유럽,per_heir,EUR,1483,0,1000000,0:0.04,marginal,자녀 1인당 100만 유로 초과분에 4%,https://taxsummaries.pwc.com/italy/individual/other-taxes
+NLD,네덜란드,유럽,per_heir,EUR,1483,0,26230,0:0.10;158669:0.20,marginal,"자녀 1인당 26,230유로 공제 후 10~20%",https://www.dutchnews.nl/2026/07/most-dutch-back-higher-taxes-on-large-inheritances-cpb-finds/
+IRL,아일랜드,유럽,per_heir,EUR,1483,0,420000,0:0.33,marginal,자녀 1인당 42만 유로 초과분에 33% (2026.10.7 이후),https://www.charteredaccountants.ie/News/capital-taxes-measures
+SWE,스웨덴,유럽,none,SEK,140,0,0,,,상속세 없음 (2005년 폐지),https://mpestateplanning.uk/?p=10603
+NOR,노르웨이,유럽,none,NOK,130,0,0,,,상속세 없음,https://mpestateplanning.uk/which-countries-dont-have-inheritance-tax-your-guide
+AUT,오스트리아,유럽,none,EUR,1483,0,0,,,상속세 없음 (2008년 폐지),https://mpestateplanning.uk/?p=10603
+PRT,포르투갈,유럽,none,EUR,1483,0,0,,,배우자·자녀는 상속세(인지세) 면제,https://globalwealthprotection.com/countries-no-inheritance-tax-2026/
+AUS,호주,오세아니아,none,AUD,870,0,0,,,상속세 없음 (상속 자산을 나중에 팔 때 양도소득세 가능),https://globalwealthprotection.com/countries-no-inheritance-tax-2026/
+NZL,뉴질랜드,오세아니아,none,NZD,780,0,0,,,상속세 없음 (1992년 폐지),https://mpestateplanning.uk/?p=10603
